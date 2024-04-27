@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Simple Website</title>
+<style>
+/* Reset some default styles */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+/* Header styles */
+header {
+    background: #333;
+    color: #fff;
+    padding-top: 20px;
+    min-height: 70px;
+    border-bottom: #2b2b2b 3px solid;
+}
+
+header h1 {
+    float: left;
+    margin-top: 10px;
+}
+
+/* Navigation styles */
+nav {
+    float: right;
+    margin-top: 10px;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+nav li {
+    display: inline;
+    margin-left: 20px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #ccc;
+}
+
+/* Footer styles */
+footer {
+    background: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    clear: both;
+    position: relative;
+    margin-top: 20px;
+}
+
+/* Media queries for responsiveness */
+@media(max-width:768px) {
+    .container {
+        width: 100%;
+    }
+
+    header,
+    nav,
+    footer {
+        text-align: center;
+    }
+
+    nav {
+        float: none;
+    }
+
+    nav ul {
+        margin-top: 20px;
+    }
+
+    nav li {
+        display: block;
+        margin: 0 auto;
+    }
+}
+</style>
+</head>
+<body>
+
+<header>
+    <div class="container">
+        <h1>Simple Website</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>
+
+<section class="container">
+    <h2>Welcome to our website</h2>
+    <p>This is a simple website template. You can customize it as per your requirements.</p>
+</section>
+
+<footer>
+    <p>&copy; 2024 Simple Website. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
