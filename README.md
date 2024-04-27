@@ -4,9 +4,15 @@ Django is a powerful Python web framework for building web applications quickly 
 Introduction : Introducing my latest project: an E-commerce website crafted with Django, Python, HTML, Bootstrap CSS, and JavaScript. Seamlessly blending frontend flair with Django's backend prowess, it delivers an intuitive and secure shopping experience.
 # TEAM MEMBER
 ANKIT KUMAR & ROHIT BORHADE
-# SCREENSHOT OF SHOP 
-![image](https://github.com/ANKIT-12GU/Ecommerce-Django/assets/114995661/d12f0f99-da85-483a-9a05-f2e2df9597f7)
-
+# The Page OF SHOP 
+![image](https://github.com/ANKIT-12GU/Ecommerce-Django/assets/114995661/40138e48-ad22-40b8-aacd-98a81c5d33fc)
+# Search The Product Present in Database
+eg: iphone 
+![image](https://github.com/ANKIT-12GU/Ecommerce-Django/assets/114995661/2ca1e472-2bba-4728-a33f-b8dec618b45c)
+# Fill Details For Order Confirmation
+![image](https://github.com/ANKIT-12GU/Ecommerce-Django/assets/114995661/1a60a2f9-8507-4dd7-89cf-96360790baa9)
+# Contact Us For Any Queries
+![image](https://github.com/ANKIT-12GU/Ecommerce-Django/assets/114995661/c9d2ebed-c52b-4e36-b45d-c28138320883)
 
 # Steps To Execute This Website On Local Machine , Follow the Steps :
 For Git clone : https://github.com/ANKIT-12GU/Ecommerce-Django.git
