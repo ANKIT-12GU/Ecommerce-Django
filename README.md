@@ -31,4 +31,5 @@ python manage.py runserver
 pip install Pillow
 # For any Queries 
 My Email : ankit821027@gmail.com
+Thank You
 
