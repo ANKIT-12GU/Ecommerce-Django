@@ -1,7 +1,7 @@
 # Ecommerce-Django
 Django is a powerful Python web framework for building web applications quickly and efficiently. It follows the "batteries-included" philosophy, providing developers with pre-built components for common web development tasks such as URL routing, form handling, authentication, and database management.
 # (ANKIT KUMAR & ROHIT BORHADE ) Ecommerce Website.
-Introduction : Introducing my latest project: an E-commerce website crafted with Django,Python, HTML, CSS, and JavaScript. Seamlessly blending frontend flair with Django's backend prowess, it delivers an intuitive and secure shopping experience.
+Introduction : Introducing my latest project: an E-commerce website crafted with Django, Python, HTML, Bootstrap CSS, and JavaScript. Seamlessly blending frontend flair with Django's backend prowess, it delivers an intuitive and secure shopping experience.
 
 # Steps To Execute This Website On Local Machine , Follow the Steps :
 For Git clone : https://github.com/ANKIT-12GU/Ecommerce-Django.git
@@ -29,4 +29,6 @@ python manage.py createsuperuser
 python manage.py runserver
 # step-12  to include the images in the database
 pip install Pillow
+# For any Queries 
+My Email : ankit821027@gmail.com
 
