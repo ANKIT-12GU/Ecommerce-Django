@@ -12,7 +12,7 @@ eg: iphone
 # Fill Details For Order Confirmation
 ![image](https://github.com/ANKIT-12GU/Ecommerce-Django/assets/114995661/1a60a2f9-8507-4dd7-89cf-96360790baa9)
 # Contact Us For Any Queries
-![image](https://github.com/ANKIT-12GU/Ecommerce-Django/assets/114995661/c9d2ebed-c52b-4e36-b45d-c28138320883)
+![image](https://github.com/ANKIT-12GU/Ecommerce-Django/assets/114995661/1fd4a5ff-8771-448c-9422-cf04bbcf72e6)
 
 # Steps To Execute This Website On Local Machine , Follow the Steps :
 For Git clone : https://github.com/ANKIT-12GU/Ecommerce-Django.git
