@@ -4,7 +4,7 @@ Django is a powerful Python web framework for building web applications quickly 
 Introduction : Introducing my latest project: an E-commerce website crafted with Django,Python, HTML, CSS, and JavaScript. Seamlessly blending frontend flair with Django's backend prowess, it delivers an intuitive and secure shopping experience.
 
 # Steps To Execute This Website On Local Machine , Follow the Steps :
-At  First Git clone : 
+For Git clone : https://github.com/ANKIT-12GU/Ecommerce-Django.git
 # step-1 install  virtualenvwrapper 
 pip install virtualenvwrapper-win
 # step-2 set the virtual environment
