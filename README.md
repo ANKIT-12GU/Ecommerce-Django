@@ -8,7 +8,7 @@ Django is a powerful Python web framework for building web applications quickly 
 - [Screenshots](#screenshots)
 - [Steps](#steps)
 - [Queries](#queries)
-- 
+  
 ## About Project
 Introduction : Introducing my latest project: an E-commerce website crafted with Django, Python, HTML, Bootstrap CSS, and JavaScript. Seamlessly blending frontend flair with Django's backend prowess, it delivers an intuitive and secure shopping experience.
 
@@ -55,6 +55,6 @@ python manage.py runserver
 # step-12  to include the images in the database
 pip install Pillow
 
-## For any Queries 
+## Queries 
 My Email : ankit821027@gmail.com
 
