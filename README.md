@@ -3,16 +3,16 @@ Django is a powerful Python web framework for building web applications quickly 
 
 ## Table of Contents
 
-- [AboutProject](#about)
-- [TEAMMEMBERS](#features)
-- [Screenshots](#screenshots)
-- [StepsToRun](#steps)
+- [About_Project](#About_Project)
+- [TEAM_MEMBERS](#TEAM_MEMBERS)
+- [Screenshots](#Screenshots)
+- [Steps_To_Run](#Steps_To_Run)
 - [Queries](#queries)
   
-## AboutProject
+## About_Project
 Introduction : Introducing my latest project: an E-commerce website crafted with Django, Python, HTML, Bootstrap CSS, and JavaScript. Seamlessly blending frontend flair with Django's backend prowess, it delivers an intuitive and secure shopping experience.
 
-## TEAMMEMBERS
+## TEAM_MEMBERS
 #### 1.ANKIT KUMAR 
 #### 2.ROHIT BORHADE
 
