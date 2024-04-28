@@ -4,7 +4,7 @@ Django is a powerful Python web framework for building web applications quickly 
 Introduction : Introducing my latest project: an E-commerce website crafted with Django, Python, HTML, Bootstrap CSS, and JavaScript. Seamlessly blending frontend flair with Django's backend prowess, it delivers an intuitive and secure shopping experience.
 # TEAM MEMBER
 ANKIT KUMAR & ROHIT BORHADE
-# The Page OF SHOP 
+# THE PAGE SHOP  
 ![image](https://github.com/ANKIT-12GU/Ecommerce-Django/assets/114995661/40138e48-ad22-40b8-aacd-98a81c5d33fc)
 # Search The Product Present in Database
 eg: iphone 
