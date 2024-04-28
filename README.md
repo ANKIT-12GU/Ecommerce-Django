@@ -20,9 +20,9 @@ Introduction : Introducing my latest project: an E-commerce website crafted with
 ![image](https://github.com/ANKIT-12GU/Ecommerce-Django/assets/114995661/40138e48-ad22-40b8-aacd-98a81c5d33fc)
 # Search The Product Present in Database
 eg: iphone 
-![image](https://github.com/ANKIT-12GU/Ecommerce-Django/assets/114995661/5b35b6a8-cfc4-4617-8369-c29ecc3988ae)
+![alt text](image.png)
 # Fill Details For Order Confirmation
-![image](https://github.com/ANKIT-12GU/Ecommerce-Django/assets/114995661/1a60a2f9-8507-4dd7-89cf-96360790baa9)
+![image](https://github.com/ANKIT-12GU/Ecommerce-Django/assets/114995661/5b35b6a8-cfc4-4617-8369-c29ecc3988ae)
 # Contact Us For Any Queries
 ![image](https://github.com/ANKIT-12GU/Ecommerce-Django/assets/114995661/1fd4a5ff-8771-448c-9422-cf04bbcf72e6)
 
