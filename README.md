@@ -5,7 +5,7 @@ Django is a powerful Python web framework for building web applications quickly 
 
 - [About_Project](#About_Project)
 - [TEAM_MEMBERS](#TEAM_MEMBERS)
-- [Screenshots](#Screenshots)
+- [THE_PAGE_SHOP](#THE_PAGE_SHOP)
 - [Steps_To_Run](#StepsToRun)
 - [Queries](#queries)
   
@@ -16,8 +16,7 @@ Introduction : Introducing my latest project: an E-commerce website crafted with
 #### 1.ANKIT KUMAR 
 #### 2.ROHIT BORHADE
 
-## Screenshots
-# THE PAGE SHOP  
+## THE_PAGE_SHOP  
 ![image](https://github.com/ANKIT-12GU/Ecommerce-Django/assets/114995661/40138e48-ad22-40b8-aacd-98a81c5d33fc)
 # Search The Product Present in Database
 eg: iphone 
