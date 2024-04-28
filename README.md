@@ -6,7 +6,7 @@ Django is a powerful Python web framework for building web applications quickly 
 - [About Project](#about)
 - [TEAM MEMBERS](#features)
 - [Screenshots](#screenshots)
-- [Steps](#steps)
+- [Steps To Run](#steps)
 - [Queries](#queries)
   
 ## About Project
@@ -27,7 +27,7 @@ eg: iphone
 # Contact Us For Any Queries
 ![image](https://github.com/ANKIT-12GU/Ecommerce-Django/assets/114995661/1fd4a5ff-8771-448c-9422-cf04bbcf72e6)
 
-## Steps
+## Steps To Run
 # Steps To Execute This Website On Local Machine , Follow the Steps :
 For Git clone : https://github.com/ANKIT-12GU/Ecommerce-Django.git
 # step-1 install  virtualenvwrapper 
