@@ -6,7 +6,7 @@ Django is a powerful Python web framework for building web applications quickly 
 - [About_Project](#About_Project)
 - [TEAM_MEMBERS](#TEAM_MEMBERS)
 - [Screenshots](#Screenshots)
-- [Steps_To_Run](#Steps_To_Run)
+- [Steps_To_Run](#StepsToRun)
 - [Queries](#queries)
   
 ## About_Project
